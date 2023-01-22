@@ -2,4 +2,4 @@
 - HTML 5
 - CSS 3
 
-Can you view [project restaurant](https://hrytsiukdenys.github.io/portfolio/)
+Can you view [project restaurant](https://hrytsiukdenys.github.io/Restaurant-FrontEnd/)
